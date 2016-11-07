@@ -23,7 +23,7 @@ Základy práce s terminálem jsou nad rámec této příručky.
 
 ## Instalace Javy
 
-Stáhneme si [Java JDK z webu Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Stáhneme si [Java JDK z webu Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 ![Stažení JDK 8 pro macOS](images/macos/download-java.png)
 
@@ -46,11 +46,11 @@ Výsledkem by měl být podobný výpis s tím, že konkrétní čísla verze Ja
 
 ## Instalace Leiningenu
 
-Instalace Leiningen bude oproti Javě probíhat celá v Terminálu.
+Instalace Leiningenu bude oproti Javě probíhat celá v Terminálu.
 
 **Poznámka**: Pokud náhodou máte nainstalovaný správce balíčků [Homebrew](http://brew.sh/), Leiningen lze instalovat pouhým spuštěním `brew install leiningen`. Poté je možné přejít rovnou k instalaci Gorilla REPL.
 
-Nejprve je potřeba vytvořit adresář, kde budeme mít spustitelné soubory. Právě takovým souborem potom budeme Leiningen, respektive naše Clojure projekt, ovládat. Nejsnazší je vytvořit v systému novou složku, k čemuž je ale potřeba oprávnění správce, proto následující příkaz opět vyžadovat heslo:
+Nejprve je potřeba vytvořit adresář, kde budeme mít spustitelné soubory. Právě takovým souborem potom budeme Leiningen, respektive naše Clojure projekty, ovládat. Nejsnazší je vytvořit v systému novou složku, k čemuž je ale potřeba oprávnění správce, proto následující příkaz opět vyžadovat heslo:
 
 ```bash
 sudo mkdir -p /usr/local/bin

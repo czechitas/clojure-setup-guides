@@ -5,7 +5,7 @@ Ukazují nejpřímější a snad i uživatelsky nejvíce pochopitelnou cestu, ja
 - [Ubuntu 16.10.](ubuntu.md)
 - [macOS 10.12.](macos.md)
 
-Záhy by měl přibýt ještě návody pro:
+Záhy by měl přibýt ještě návod pro:
 
 - Fedora 24
 

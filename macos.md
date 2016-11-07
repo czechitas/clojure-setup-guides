@@ -88,7 +88,7 @@ Nejprve si ale vytvoříme nový adresář pro vývoj software obecně. V zásad
 mkdir ~/Developer
 ```
 
-Přesunem se do adresáře, kde budeme vytvořet projekt s Gorilla REPLem. V mém případě se jedná o nově vytvořený adresář `dev`.
+Přesunem se do adresáře, kde budeme vytvořet projekt s Gorilla REPLem. V mém případě se jedná o nově vytvořený adresář `Developer`.
 
 ```bash
 cd ~/Developer

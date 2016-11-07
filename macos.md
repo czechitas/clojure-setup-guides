@@ -112,7 +112,7 @@ Upravíme `project.clj` tak, že do něj přidáme novou konfiguraci s Gorilla p
 open -e project.clj
 ```
 
-Do souboru přidáme konfiguraci: `:plugins [[lein-gorilla "0.3.6"]]`.
+Do souboru přidáme konfiguraci: `:plugins [[lein-gorilla "0.3.6"]]`. Pozor na poslední závorku…
 
 ![Přidání Gorilla REPL](images/macos/gorilla-plugin.png)
 

@@ -129,6 +129,8 @@ Upravíme `project.clj` tak, že do něj přidáme novou konfiguraci s Gorilla p
 editor project.clj
 ```
 
+Do souboru přidáme konfiguraci: `:plugins [[lein-gorilla "0.3.6"]]`. Pozor na poslední závorku…
+
 ![Přidání Gorilla REPL](images/ubuntu/gorilla-plugin.png)
 
 Spustíme Gorilla REPL:

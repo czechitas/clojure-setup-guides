@@ -70,10 +70,16 @@ sudo mkdir -p /usr/local/bin
 
 Protože se jedná o nový systémový adresář, musíme zadat naše heslo pro autorizování a potvrzení této změny. Systém si po krátkou dobu bude heslo pamatovat, takže bychom tím už neměli být obtěžováni.
 
-Nyní stáhneme skript `lein`. který uložíme do souboru v právě vytvořeném adresáři:
+Nyní stáhneme skript `lein`:
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein && sudo mv lein /usr/local/bin
+curl -fsSL -o ~/Downloads/lein https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
+```
+
+Následně jej přesuneme do dříve vytvořeného adresáře pro pomocné programy:
+
+```bash
+sudo mv ~/Downloads/lein /usr/local/bin
 ```
 
 Poté změníme práva k souboru `lein` tak, aby šel spouštět:

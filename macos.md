@@ -37,9 +37,9 @@ Základy práce s terminálem nebo nastavení uživatelských účtů jsou nad r
 
 Stáhneme si [Java JDK z webu Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-![Stažení JDK 8 pro macOS](images/macos/download-java.png)
-
 Stránka pro stažení nabízí spoustu možností. Pro nás je nejlepší stáhnout hned první z nabízených balíků nadepsaný *Java SE Development Kit* s číslem verze. Před stažením je potřeba souhlasit s licenčními podmínkami, což se provede vybráním volby hned pod výše zmíněným nadpisem. Pak už můžeme stáhnout instalátor s popisem *Mac OS X* (historické označení pro macOS).
+
+![Stažení JDK 8 pro macOS](images/macos/download-java.png)
 
 Po stažení Javu nainstalujeme klasickým postupem pro instalaci software staženého z internetu. Stažený DMG soubor dvojklikem „připojíme“. Spustíme instalátor a krok po kroku dojdeme až na konec instalačního procesu. Během toho budeme dotázáni na naše heslo pro potvrzení a autorizování změn v systému. DMG soubor „vysuneme“ např. přetažením z Plochy do Koše. Poté můžeme ho případně smazat, pokud jsme tak nevybrali na konci instalace, např. přetažením ze složky Stahování do Koše.
 

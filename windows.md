@@ -22,11 +22,11 @@ Složku *Clojure* dvojklikem otevřeme a v ní dalším dvojklikem otevřeme dá
 
 ![Otevření dávkového souboru run](images/windows/run-installation.png)
 
-Windows ohlásí, že aplikace může být nebezpečná. Zobrazíme si více informací klikem na *more info*. (Tato a následující obrazovka nejsou přeloženy do češtiny, protože je spouštěna na systému Windows, který byl původně instalován v angličtině. Autor neví, zda je na čistě českých Windows lokalizována.)
+Windows ohlásí, že aplikace může být nebezpečná. Zobrazíme si více informací klikem na *More info*. (Tato a následující obrazovka nejsou přeloženy do češtiny, protože je spouštěna na systému Windows, který byl původně instalován v angličtině. Autor neví, zda je na čistě českých Windows lokalizována.)
 
 ![Získání více informací o riziku](images/windows/more-about-risk.png)
 
-V dialogu o ochraně PC se zobrazí informace o tom, že se spouští soubor run.bat (dávkový soubor z instalačního balíku Clojure), který pochází od neznámého vydavatele. Nicméně, pokud nám věříte, klikněte na *Run anyway*.
+V dialogu o ochraně PC se zobrazí informace o tom, že se spouští soubor *run.bat* (dávkový soubor z instalačního balíku), který pochází od neznámého vydavatele. Nicméně, pokud nám věříte, klikněte na *Run anyway*.
 
 ![Spuštění instalace Clojure i přes varování](images/windows/run-anyway.png)
 
@@ -38,7 +38,7 @@ Myší v okně příkazové řádky označíme adresu, na které se Gorilla REPL
 
 ![Označení adresy v příkazovém řádku](images/windows/select-url.png)
 
-Otevřeme si internetový prohlížeč, adresu vložíme do adresního pomocí znamého `Ctrl+V` a přejdeme na ni.
+Otevřeme si internetový prohlížeč, adresu vložíme do adresního řádku pomocí znamého `Ctrl+V` a přejdeme na ni.
 
 ![Otevření Gorilla REPL v prohlížeči](images/windows/enter-url.png)
 

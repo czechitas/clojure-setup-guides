@@ -41,7 +41,7 @@ Stránka pro stažení nabízí spoustu možností. Pro nás je nejlepší stáh
 
 ![Stažení JDK 8 pro macOS](images/macos/download-java.png)
 
-Po stažení Javu nainstalujeme klasickým postupem pro instalaci software staženého z internetu. Stažený DMG soubor dvojklikem „připojíme“. Spustíme instalátor a krok po kroku dojdeme až na konec instalačního procesu. Během toho budeme dotázáni na naše heslo pro potvrzení a autorizování změn v systému. DMG soubor „vysuneme“ např. přetažením z Plochy do Koše. Poté můžeme ho případně smazat, pokud jsme tak nevybrali na konci instalace, např. přetažením ze složky Stahování do Koše.
+Po stažení Javu nainstalujeme klasickým postupem pro instalaci software staženého z internetu. Stažený DMG soubor dvojklikem „připojíme“. Spustíme instalátor a krok po kroku dojdeme až na konec instalačního procesu. Během toho budeme dotázáni na naše heslo pro potvrzení a autorizování změn v systému. DMG soubor „vysuneme“ např. přetažením z Plochy do Koše. Poté jej můžeme smazat, pokud jsme tak nevybrali na konci instalace, např. přetažením ze složky Stahování do Koše.
 
 ![Spuštění instalátoru Javy](images/macos/install-java.png)
 

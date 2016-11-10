@@ -38,7 +38,7 @@ Myší v okně příkazové řádky označíme adresu, na které se Gorilla REPL
 
 ![Označení adresy v příkazovém řádku](images/windows/select-url.png)
 
-Otevřeme si internetový prohlížeč, adresu vložíme do adresního pomocí znamého Ctrl+V a přejdeme na ni.
+Otevřeme si internetový prohlížeč, adresu vložíme do adresního pomocí znamého `Ctrl+V` a přejdeme na ni.
 
 ![Otevření Gorilla REPL v prohlížeči](images/windows/enter-url.png)
 

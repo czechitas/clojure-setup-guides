@@ -41,7 +41,7 @@ Stránka pro stažení nabízí spoustu možností. Pro nás je nejlepší stáh
 
 ![Stažení JDK 8 pro macOS](images/macos/download-java.png)
 
-Po stažení Javu nainstalujeme klasickým postupem pro instalaci software staženého z internetu. Stažený DMG soubor dvojklikem „připojíme“. Spustíme instalátor a krok po kroku dojdeme až na konec instalačního procesu. Během toho budeme dotázáni na naše heslo pro potvrzení a autorizování změn v systému. DMG soubor „vysuneme“ např. přetažením z Plochy do Koše. Poté jej můžeme smazat, pokud jsme tak nevybrali na konci instalace, např. přetažením ze složky Stahování do Koše.
+Po stažení Javu nainstalujeme klasickým postupem pro instalaci software staženého z internetu. Stažený DMG soubor dvojklikem „připojíme“. Spustíme instalátor a krok po kroku dojdeme až na konec instalačního procesu. Během toho budeme dotázáni na naše heslo pro potvrzení a autorizování změn v systému. DMG soubor „vysuneme“ např. přetažením z *Plochy* do *Koše*. Poté jej můžeme smazat, pokud jsme tak nevybrali na konci instalace, např. přetažením ze složky *Stahování* do *Koše*.
 
 ![Spuštění instalátoru Javy](images/macos/install-java.png)
 
@@ -139,7 +139,7 @@ Nejlepší je najít poslední závorku v souboru. Před ní umístíme kurzor, 
 
 ![Přidání Gorilla REPL](images/macos/gorilla-plugin.png)
 
-Pozor na záměnu za inteligentní uvozovky. Funkci je nejlépe dočasně vypnout a vkládat daný text přes Kopírovat/Vložit resp. Cmd+C/Cmd+V. Zda je záměna  za inteligentní uvozovky aktivní zjistíte otevřením menu *Úpravy*, aktivací položky *Záměny* a zkontrolováním podpoložky *Inteligentní uvozovky*, kde tuto funkci můžete dočasně vypnout.
+Pozor na záměnu za inteligentní uvozovky. Funkci je nejlépe dočasně vypnout a vkládat daný text přes *Kopírovat*/*Vložit* resp. `Cmd+C`/`Cmd+V`. Zda je záměna  za inteligentní uvozovky aktivní zjistíte otevřením menu *Úpravy*, aktivací položky *Záměny* a zkontrolováním podpoložky *Inteligentní uvozovky*, kde tuto funkci můžete dočasně vypnout.
 
 ![Vypnutí záměny za inteligentní uvozovky](images/macos/uncheck-smart-quotes.png)
 
@@ -151,7 +151,7 @@ Poté se vrátíme zpět k Terminálu a spustíme Gorilla REPL:
 lein gorilla
 ```
 
- Začnou se doinstalovávat závislosti a samotný Gorilla REPL. Nakonec se ale spustí a na předposledním řádku bude vypsána adresa, kde běží. Na adrese vyvoláme kontextové menu (Ctrl+klik nebo klik dvěma prsty) a vybereme *Otevřít URL*.
+ Začnou se doinstalovávat závislosti a samotný Gorilla REPL. Nakonec se ale spustí a na předposledním řádku bude vypsána adresa, kde běží. Na adrese vyvoláme kontextové menu (`Ctrl`+klik nebo klik dvěma prsty) a vybereme *Otevřít URL*.
  
 ![Otevření Gorilla REPL v prohlížeči](images/macos/launch-gorilla.png)
 

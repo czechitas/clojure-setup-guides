@@ -30,11 +30,7 @@ V dialogu o ochraně PC se zobrazí informace o tom, že se spouští soubor *ru
 
 ![Spuštění instalace Clojure i přes varování](images/windows/run-anyway.png)
 
-Otevře se okno příkazové řádky, na kterém nějakou dobu nic neuvidíme. Nakonec se nicméně spustí Gorilla REPL a vypíše o sobě zajímavé informace.
-
-![Spuštění Gorilla REPL](images/windows/running-gorilla.png)
-
-Myší v okně příkazové řádky označíme adresu, na které se Gorilla REPL sputil, a stiskneme klávesu `Enter`. Tím se nám adresa zkopírovala do schránky.
+Otevře se okno příkazové řádky, na kterém nějakou dobu nic neuvidíme. Nakonec se ale Gorilla REPL spustí a na předposledním řádku bude vypsána adresa, kde běží. Myší tuto adresu označíme a stiskneme klávesu `Enter`. Tím se nám adresa zkopírovala do schránky.
 
 ![Označení adresy v příkazovém řádku](images/windows/select-url.png)
 

@@ -34,7 +34,7 @@ Otevře se okno příkazové řádky, na kterém nějakou dobu nic neuvidíme. N
 
 ![Spuštění Gorilla REPL](images/windows/running-gorilla.png)
 
-Myší v okně příkazové řádky označíme adresu, na které se Gorilla REPL sputil, a stiskneme klávesy Enter. Tím se nám adresa zkopírovala do schránky.
+Myší v okně příkazové řádky označíme adresu, na které se Gorilla REPL sputil, a stiskneme klávesy `Enter`. Tím se nám adresa zkopírovala do schránky.
 
 ![Označení adresy v příkazovém řádku](images/windows/select-url.png)
 

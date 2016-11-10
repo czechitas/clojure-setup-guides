@@ -144,7 +144,7 @@ xdg-open project.clj
 
 Soubor *project.clj* už je vlastně kód v programovacím jazyce Clojure, proto může působit na první pohled trochu divně a nepřehledně. Je tak potřeba dávat pozor, co děláme.
 
-Nejlepší je najít poslední závorku v souboru. Před ní umístíme kurzor, odřádkujeme Enterem, odsadíme dvěma mezerami a vložíme konfiguraci pro Leiningen pluginy s Gorilla REPLem: `:plugins [[lein-gorilla "0.3.6"]]`.
+Nejlepší je najít poslední závorku v souboru. Před ní umístíme kurzor, odřádkujeme `Enterem`, odsadíme dvěma mezerami a vložíme konfiguraci pro Leiningen pluginy s Gorilla REPLem: `:plugins [[lein-gorilla "0.3.6"]]`.
 
 ![Přidání Gorilla REPL do projektu](images/ubuntu/add-gorilla.png)
 

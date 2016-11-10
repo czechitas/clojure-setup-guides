@@ -13,7 +13,7 @@ Po dokončení všech kroků nastavení bychom měli získat systém, na kterém
 
 Při instalaci budeme používat *Terminál*, někdy také označovaný jako příkazová řádka. Jedná se o standardní součást macOS.
 
-Terminál lze například spustit přes *Spotlight*. Ten se aktivuje kliknutím na symbol lupy v pravém horním rohu obrazovky. Do Spotlightu potom stačí napsat několik prvních písmen jako například `term` a jistě se nám aplikace Terminál ukáže. Pustíme ji dvojklikem nebo stiskem Enter, když je zvýrazněna.
+Terminál lze například spustit přes *Spotlight*. Ten se aktivuje kliknutím na symbol lupy v pravém horním rohu obrazovky. Do Spotlightu potom stačí napsat několik prvních písmen jako například `term` a jistě se nám aplikace Terminál ukáže. Pustíme ji dvojklikem nebo stiskem `Enter`, když je zvýrazněna.
 
 ![Spuštění Terminálu přes Spotlight](images/macos/launch-terminal.png)
 
@@ -135,7 +135,7 @@ open -e project.clj
 
 Soubor *project.clj* už je vlastně kód v programovacím jazyce Clojure, proto může působit na první pohled trochu divně a nepřehledně. Je tak potřeba dávat pozor, co děláme.
 
-Nejlepší je najít poslední závorku v souboru. Před ní umístíme kurzor, odřádkujeme Enterem, odsadíme dvěma mezerami a vložíme konfiguraci pro Leiningen pluginy s Gorilla REPLem: `:plugins [[lein-gorilla "0.3.6"]]`. 
+Nejlepší je najít poslední závorku v souboru. Před ní umístíme kurzor, odřádkujeme `Enterem`, odsadíme dvěma mezerami a vložíme konfiguraci pro Leiningen pluginy s Gorilla REPLem: `:plugins [[lein-gorilla "0.3.6"]]`. 
 
 ![Přidání Gorilla REPL](images/macos/gorilla-plugin.png)
 

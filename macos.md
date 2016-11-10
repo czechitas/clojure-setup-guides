@@ -21,11 +21,11 @@ Některé úkony vyžadují vyšší uživatelské oprávnění a je potřeba m�
 
 Jestli používáme typ účtu správce zjistíme tak, že si otevřeme *Předvolby systému* z horního Apple menu.
 
-![Spuštění Předvoleb systému](images/ubuntu/launch-system-preferences.png)
+![Spuštění Předvoleb systému](images/macos/launch-system-preferences.png)
 
 Zde po spuštění vybere ze spodní kategorie položku *Uživatelé a skupiny*.
 
-![Otevření uživatelských účtů](images/ubuntu/open-users-groups.png)
+![Otevření uživatelských účtů](images/macos/open-users-groups.png)
 
 Jestli máme správcovský účet nebo ne se potom dozvíme ve spodní části informací o našem účtu.
 

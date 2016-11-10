@@ -2,6 +2,7 @@
 
 Ukazují nejpřímější a snad i uživatelsky nejvíce pochopitelnou cestu, jak instalovat [Javu](https://java.com), [Leiningen](https://leiningen.org) a [Gorilla REPL](http://gorilla-repl.org). Zatím jsou návody dostupné pro tyto operační systémy:
 
+- [Windows 10](windows.md)
 - [macOS 10.12 „Sierra“](macos.md)
 - [Ubuntu 16.10 „Yakkety Yak“](ubuntu.md)
 

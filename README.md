@@ -1,10 +1,8 @@
 # Instalační návody pro Clojure workshop
 
-Pro Clojure workshop pořádaný dohromady komunitami [Czechitas](https://www.czechitas.cz) a [Prague Lambda Meetup](https://www.meetup.com/Lambda-Meetup-Group/) je potřeba nejprve nastavit systém na počítači účastnice.
+Tyto návody se snaží o nejpřímější a snad i uživatelsky nejvíce pochopitelnou cestu, jak instalovat [Javu](https://java.com), [Leiningen](https://leiningen.org) a [Gorilla REPL](http://gorilla-repl.org). Tento software potřebují mít na svém počítači účastnice Clojure workshopu pořádaného [Czechitas](https://www.czechitas.cz) a skupinou [Prague Lambda Meetup](https://www.meetup.com/Lambda-Meetup-Group/).
 
-Tyto návody se snaží o nejpřímější a snad i uživatelsky nejvíce pochopitelnou cestu, jak instalovat [Javu](https://java.com), [Leiningen](https://leiningen.org) a [Gorilla REPL](http://gorilla-repl.org).
-
-Návody jsou dostupné pro tyto operační systémy:
+Návody jsou dostupné pro následující operační systémy:
 
 - [Windows 10](windows.md)
 - [macOS 10.12 „Sierra“](macos.md)
@@ -17,4 +15,4 @@ Záhy by měl přibýt ještě návod pro:
 
 ## Licence
 
-Tyto návody zveřejňuji jako volné dílo.
+Všechny návody jsou volné dílo.

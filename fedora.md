@@ -156,7 +156,7 @@ Poté se vrátíme zpět k Terminálu a spustíme Gorilla REPL:
 lein gorilla
 ```
 
-Začnou se doinstalovávat závislosti a samotný Gorilla REPL. Nakonec se ale spustí a na předposledním řádku bude vypsána adresa, kde běží. Klikneme na ni pravým tlačítkem myší.
+Začnou se doinstalovávat závislosti a samotný Gorilla REPL. Nakonec se ale spustí a na předposledním řádku bude vypsána adresa, kde běží. Klikneme na ni pravým tlačítkem myší a otevřeme odkaz.
 
 ![Otevření Gorilla REPL v prohlížeči](images/fedora/launch-gorilla.png)
 

@@ -1,4 +1,8 @@
-# Nastavení Windows 10
+---
+layout: page
+title: Windows
+---
+Návod popisuje nastavení operačního systému Microsoft Windows 10.
 
 Oproti ostatním operačním systémům máme na Windows výhodu. Skvělá parta z [Prague Lambda Meetup](https://www.meetup.com/Lambda-Meetup-Group/) připravila instalační balík, který vše vyřeší na pár kliknutí.
 

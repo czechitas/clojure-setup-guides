@@ -1,0 +1,18 @@
+# Site settings
+lang: cs
+title: Instalační návody pro Clojure workshop
+author: Filip Zrůst
+description: >
+  Návody pro instalaci Javy, Leiningen a Gorilla REPL pro účely Clojure
+  workshopu pořádaného Czechitas & Prague Lambda Meetup.
+baseurl: /clojure-setup-guides
+url: https://frzng.github.io
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

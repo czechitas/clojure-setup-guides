@@ -1,4 +1,8 @@
-# Nastavení Ubuntu 16.10
+---
+layout: page
+title: Ubuntu
+---
+Návod popisuje nastavení operačního systému Ubuntu 16.10 „Yakkety Yak“.
 
 ## Cílový stav
 

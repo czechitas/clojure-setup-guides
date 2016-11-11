@@ -1,4 +1,8 @@
-# Nastavení macOS 10.12
+---
+layout: page
+title: macOS
+---
+Návod popisuje nastavení operačního systému Apple macOS 10.12 „Sierra“.
 
 ## Cílový stav
 

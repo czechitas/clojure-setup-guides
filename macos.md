@@ -35,7 +35,7 @@ Základy práce s terminálem nebo nastavení uživatelských účtů jsou nad r
 
 ## Instalace Javy
 
-Stáhneme si [Java JDK z webu Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+Stáhneme si [Javu pro vývojáře z webu Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 Stránka pro stažení nabízí spoustu možností. Pro nás je nejlepší stáhnout hned první z nabízených balíků nadepsaný *Java SE Development Kit* s číslem verze. Před stažením je potřeba souhlasit s licenčními podmínkami, což se provede vybráním volby hned pod výše zmíněným nadpisem. Pak už můžeme stáhnout instalátor s popisem *Mac OS X* (historické označení pro macOS).
 

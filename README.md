@@ -7,10 +7,7 @@ Návody jsou dostupné pro následující operační systémy:
 - [Windows 10](windows.md)
 - [macOS 10.12 „Sierra“](macos.md)
 - [Ubuntu 16.10 „Yakkety Yak“](ubuntu.md)
-
-Záhy by měl přibýt ještě návod pro:
-
-- Fedora 24
+- [Fedora 24](fedora.md)
 
 
 ## Licence

@@ -8,6 +8,7 @@ Návody jsou dostupné pro následující operační systémy:
 - [Windows 10](windows.html)
 - [macOS 10.12 „Sierra“](macos.html)
 - [Ubuntu 16.10 „Yakkety Yak“](ubuntu.html)
+- [Fedora 24](fedora.html)
 
 
 ## Pořadatelé

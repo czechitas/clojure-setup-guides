@@ -166,6 +166,6 @@ Začnou se doinstalovávat závislosti a samotný Gorilla REPL. Nakonec se ale s
 
 Po načtení se nám zobrazí Gorilla REPL.
 
-![Spuštěný Gorilla REPL](images/windows/loaded-gorilla.png)
+![Spuštěný Gorilla REPL](images/ubuntu/loaded-gorilla.png)
 
 Skvělé 🙌 Přípravu počítače na workshop máme hotovu! 💪

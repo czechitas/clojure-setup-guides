@@ -85,13 +85,13 @@ Nejprve si vytvoříme adresář, kde budeme mít pomocné programy pro programo
 mkdir ~/bin
 ```
 
-Nyní stáhneme skript `lein`, který uložíme do souboru v právě vytvořeném adresáři:
+Nyní stáhneme skript *lein*, který uložíme do souboru v právě vytvořeném adresáři:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein > ~/bin/lein
 ```
 
-Poté změníme práva k souboru `lein` tak, aby šel spouštět:
+Poté změníme práva k souboru *lein* tak, aby šel spouštět:
 
 ```bash
 chmod a+x ~/bin/lein
